@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+
+data/
+models/
+runs/
+notebooks/yolov8n.pt
+*.csvvenv/
+__pycache__/
